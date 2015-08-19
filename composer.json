@@ -14,7 +14,7 @@
     "minimum-stability": "dev",
     "require": {
         "symfony/framework-bundle": "~2.1",
-        "jms/translation-bundle": "~1.0"
+        "jms/translation-bundle": "dev-master"
     },
     "require-dev": {
         "symfony/framework-bundle": "<2.1.5",
